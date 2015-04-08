@@ -2,6 +2,8 @@
 
 Bidirectional IRC integration with [slack](http://slack.com), with simple functionality like avoiding higlighting yourself on IRC, etc.
 
+The token for the Docker container is specified at runtime, using docker -e SLACKTOKEN=YOURTOKENHERE
+
 ## Usage
 
 ```javascript
